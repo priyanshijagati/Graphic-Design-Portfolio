@@ -55,7 +55,7 @@ nav p a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #73b7e4;
+    background: #e8cbda;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -135,7 +135,7 @@ img{
     position: relative;
 }
 .subtitle .sublink {
-    color: #a8e7f9;
+    color: #e8cbda;
 }
 .sublink::after{
     content: '';
@@ -283,8 +283,9 @@ img{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #a0c7c7;
+    background: #e8cbda;
     transform: translateY(-5px);
+    color: black;
 }
 
 /** contact **/
